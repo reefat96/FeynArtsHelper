@@ -21,6 +21,6 @@ FAHFeynmanRules[QEDLagrangian, {{QuantumField[\[Psi]1][p], QuantumField[\[Psi]2]
  QuantumField[A, {\[Alpha]}][p]}}]
 ```
 
-to get ![](FAHFeynRules1.png) which is essentially the vextex of a Feynman diagram in QED representing the vertex of two fermions and the photon.
+to get ![](FAHFeynRules1.png) which is essentially the vertex of a Feynman diagram in QED representing the vertex of two fermions and the photon.
 
 
