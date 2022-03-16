@@ -8,13 +8,13 @@ This package helps us in reducing repetative phenomenological calculations. Curr
     <a>Operators</a>
     <ul class="sub_menu">
      <li>
-      <a href="https://reefat96.github.io/FeynArtsHelper/Operators/GCTL/GetCounterTermLagrangian.md"><span class="dropdownPad">GetCounterTermLagrangian</span></a>
+      <a href="Operators/GCTL/GetCounterTermLagrangian.md"><span class="dropdownPad">GetCounterTermLagrangian</span></a>
      </li>
       <li>
-      <a href="https://reefat96.github.io/FeynArtsHelper/Operators/FAHReplace/FAHReplace.md"><span class="dropdownPad">FAHREplace</span></a>
+      <a href="Operators/FAHReplace/FAHReplace.md"><span class="dropdownPad">FAHREplace</span></a>
      </li>
      <li>
-      <a href="https://reefat96.github.io/FeynArtsHelper/Operators/FAHFeynmanRules/FAHFeynmanRules.md"><span class="dropdownPad">FAHFeynmanRules</span></a>
+      <a href="Operators/FAHFeynmanRules/FAHFeynmanRules.md"><span class="dropdownPad">FAHFeynmanRules</span></a>
      </li>
      <li>
       <a href="Operators/FAHCTFeynmanRules.md"><span class="dropdownPad">FAHCTFeynmanRules</span></a>
